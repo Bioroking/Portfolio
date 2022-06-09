@@ -1,2 +1,3 @@
-# Portfolio
-Code-Portfolio
+В этом репозитории собраны мои решения задач на разных курсах.
+В папке SQL собраны решение задач с сайтов SQL-Stepik и SQL-ex.
+В папке Python собраны решение задач с сайтов Python-Stepk и mlcourses.ai.
